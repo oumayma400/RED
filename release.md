@@ -1,4 +1,4 @@
-# RED - Robot Editor v0.9.5
+# RED - Robot Editor v0.9.5 fffff
 ## Introduction
 RED Robot Editor is Eclipse based editor for [RobotFramework](https://github.com/robotframework/robotframework) test cases. 
 Release contains Eclipse feature of RED Robot Editor to be installed into Eclipse. 
