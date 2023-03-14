@@ -1,6 +1,6 @@
 RED 0.9.5 - 2020/07/24
 
-Enhancement
+Enhancement ouuuuuuuu
 
 	[RED-1286] - Adding error for "..." KW/TC name
 	[RED-1404] - Variables in assignments is not validated for = character
